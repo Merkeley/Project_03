@@ -1,12 +1,20 @@
 '''
     File: telecom_dat_clean.py
 
-    Description:
-        Data cleaning steps for the telecom data files for Metis Data Science Boot Camp Project 3
+    Description: This file contains a single function that is used to clean the
+        data for Metis Data Science Bootcamp Project 3
 
+    Author: MBoals
+
+    Date Created: 1/27/20
+
+    Date Modified: 
+
+    Update Log:
+
+    Functions Defined:
 
 '''
-
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 
