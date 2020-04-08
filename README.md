@@ -1,8 +1,4 @@
-# Metis Bootcamp
-## San Francisco Winter 2020
-# Project 3
-## Predicting Telecom Customer Churn
-### Michael Boals
+# Predicting Telecom Customer Churn
 
 This directory is organized as follows
 
